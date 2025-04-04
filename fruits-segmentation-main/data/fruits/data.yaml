@@ -1,0 +1,18 @@
+# train: ../train/images
+# val: ../valid/images
+# test: ../test/images
+
+train: /home/bigdata/Desktop/jms/yolo-V8/data/fruits/train/images
+val: /home/bigdata/Desktop/jms/yolo-V8/data/fruits/valid/images
+test: /home/bigdata/Desktop/jms/yolo-V8/data/fruits/test/images
+
+nc: 24
+names: ['Broccoli', 'Onion', 'Sweet Potato', 'apple', 'banana', 'beet', 'carrot', 'chili', 'cucumber', 'garlic', 'grape', 'kiwi', 'lemon', 'mango', 'melon', 'orange', 'peach', 'pineapple', 'pomegranate', 'potato', 'pumpkin', 'strawberry', 'tomato', 'watermelon-fresh']
+
+roboflow:
+  workspace: detection-gbrl8
+  project: instace
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/detection-gbrl8/instace/dataset/2
+  

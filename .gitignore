@@ -1,0 +1,4 @@
+*.pkl
+*.bin
+juicy_app/juice/assets/best_float32.tflite
+juicy_app/juice/assets/best_float32.tflite
