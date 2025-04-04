@@ -121,13 +121,8 @@ pip install -r requirements.txt
 - Precision, Recall, mAP50, mAP50-95 그래프
 - 24종 클래스 혼동 행렬
 - 최종 에폭 기준 성능:
-  - `box_loss`: [값]
-  - `seg_loss`: [값]
-  - `cls_loss`: [값]
-  - `Precision`: [값]
-  - `Recall`: [값]
-  - `mAP50`: [값]
-  - `mAP50-95`: [값]
+  - `mAP50`: [97]
+  - `mAP50-95`: [92]
 
 ---
 
@@ -149,4 +144,3 @@ MIT License
 ## 🙋‍♂️ Contact
 
 - **Juicy App**: [@yunseok451](https://github.com/yunseok451)  
-- **YOLOv8 프로젝트**: [@jms01121](https://github.com/jms01121)
