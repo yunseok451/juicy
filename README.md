@@ -35,6 +35,18 @@
 
 ---
 
+## 📱 APK 다운로드
+
+아래 QR 코드를 스캔하면 Juicy 앱의 APK 파일을 직접 다운로드할 수 있습니다.
+
+<p align="center">
+  <img src="images/QR.png" alt="Juicy APK QR Code" width="200"/>
+</p>
+
+👉 또는 직접 다운로드: [Juicy APK 다운로드](https://drive.google.com/file/d/10B9NgeVsGa2k_gSCd2D1ntQ5p3FylEcQ/view)
+
+
+
 ## 🚀 실행 방법
 
 1. 이 저장소를 클론합니다:
